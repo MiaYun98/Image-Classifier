@@ -20,9 +20,7 @@
 ## Installation 
 
 ```md
-npm i
-
-Open AI 
+N/A
 ```
 
 ## Usage 
