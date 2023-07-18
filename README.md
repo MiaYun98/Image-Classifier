@@ -27,7 +27,7 @@ N/A
 ## Usage 
 
 ```md
-
+This is a dog image classifier that recognize the picture is dog or not. 
 ```
 
 ## APP Screen Shot 
