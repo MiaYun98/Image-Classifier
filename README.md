@@ -8,14 +8,14 @@ We utilized the built-in ML system (VGG) to classify the breed of the dog and wi
 ## UserStory 
 
 ```md
-
+N/A
 
 ```
 
 ## Acceptance Criteria
 
 ```md
-
+N/A
 ```
 
 ## Installation 
@@ -27,7 +27,7 @@ N/A
 ## Usage 
 
 ```md
-This is a dog image classifier that recognize the picture is dog or not. 
+This is a dog image classifier that recognizes the picture is a dog or not. 
 ```
 
 ## APP Screen Shot 
