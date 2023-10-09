@@ -8,14 +8,16 @@ We utilized the built-in ML system (VGG) to classify the breed of the dog and wi
 ## UserStory 
 
 ```md
-N/A
+AS
+I WANT
+SO THAT
 
 ```
 
 ## Acceptance Criteria
 
 ```md
-N/A
+WHEN
 ```
 
 ## Installation 
@@ -35,7 +37,7 @@ This is a dog image classifier that recognizes the picture is a dog or not.
 
 ## License 
 
-
+Numpy, Pytorch
 
 ## Contact 
 Sangmi Yun: https://github.com/MiaYun98
